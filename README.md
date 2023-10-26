@@ -9,5 +9,5 @@ Implement a function called *limit* to determine the limit of a sequence. Based 
   - If lim An does not exist, the function must return “does not exist”.
 
 # Second Objective
-The objective is to implement a function called *estimator* that supports as input a sequence *An* and returns a
+Implement a function called *estimator* that supports as input a sequence *An* and returns a
 approximation of the convergent series An with n starting at 1 and tending to infinity.
